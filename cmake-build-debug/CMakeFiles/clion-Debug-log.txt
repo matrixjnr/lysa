@@ -1,0 +1,4 @@
+/Users/jmatrix/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/jmatrix/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/jmatrix/CLionProjects/lysa -B /Users/jmatrix/CLionProjects/lysa/cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/jmatrix/CLionProjects/lysa/cmake-build-debug

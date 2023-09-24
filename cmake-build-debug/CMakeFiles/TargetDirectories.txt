@@ -1,0 +1,3 @@
+/Users/jmatrix/CLionProjects/lysa/cmake-build-debug/CMakeFiles/lysa.dir
+/Users/jmatrix/CLionProjects/lysa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jmatrix/CLionProjects/lysa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
